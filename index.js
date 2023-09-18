@@ -4,7 +4,7 @@
 //4. What is the starting point of each sector?
 //5. What is the total distance of the triathlon?
 //6. Include a condition where the distance remaining is less than 10 miles.
-//5. We need the distance to be formatted to 2 decimal places
+//7. We need the distance to be formatted to 2 decimal places
 
 function iTri(s) {
   //its gonna be a long day!
